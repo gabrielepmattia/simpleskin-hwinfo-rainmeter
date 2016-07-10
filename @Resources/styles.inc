@@ -67,3 +67,9 @@ FontFace=Verdana
 FontColor=240, 240, 240, 255
 FontSize=8
 StringStyle=BOLD
+
+[InnerPointerLabel]
+FontFace=Verdana
+FontColor=255,255,255,100
+FontSize=7
+StringStyle=THIN
