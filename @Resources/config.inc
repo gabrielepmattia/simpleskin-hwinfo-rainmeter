@@ -3,7 +3,7 @@
 ; by gabry3795 - gabry dot gabry at hotmail dot it
 
 ; Please replace every variable value with yours by using "HWiNFOSharedMemoryViewer.exe"
-; in C:\Username\Documents\Rainmeter\Skin\SimpleSkinHWiNFO\@Resources
+; in C:\Username\Documents\Rainmeter\Skins\SimpleSkinHWiNFO\@Resources
 
 ; => Motherboard Sensors
 HWiNFO-MOBO-SensorId=0xf0008728
