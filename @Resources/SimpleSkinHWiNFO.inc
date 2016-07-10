@@ -1,0 +1,12 @@
+[Variables]
+
+; Motherboard
+HWiNFO-MOBO-SensorId=0xf0008728
+HWiNFO-MOBO-SensorInstance=0x0
+HWiNFO-MOBO-CPU-Fan-EntryId=0x3000000
+HWiNFO-MOBO-CPU-Temp-EntryId=0x1000000
+
+;CPU
+HWiNFO-CPU0-SensorId=0xf0000300
+HWiNFO-CPU0-SensorInstance=0x0
+HWiNFO-CPU0-Bus-EntryId=0x6000008
