@@ -36,7 +36,20 @@ HWiNFO-CPU0-Core5-Clock-Entry=0x6000004
 HWiNFO-CPU0-Core6-Clock-Entry=0x6000005
 HWiNFO-CPU0-Core7-Clock-Entry=0x6000006
 HWiNFO-CPU0-Core8-Clock-Entry=0x6000007
-; => CPU Power Sensor (within my mobo CPU power has another SensorInstance)
+; => CPU Power Sensor (within my mobo CPU power has another SensorId)
 HWiNFO-CPU0-Power-SensorId=0xf0000501
 HWiNFO-CPU0-Power-SensorInstance=0x0
 HWiNFO-CPU0-Power-Entry=0x5000000
+
+;=> GPU Sensors
+HWiNFO-GPU0-SensorId=0xe0001800
+HWiNFO-GPU0-SensorInstance=0x0
+HWiNFO-GPU0-Temp-Entry=0x1000000
+HWiNFO-GPU0-Fan-Entry=0x8000000
+HWiNFO-GPU0-Vcore-Entry=0x2000000
+HWiNFO-GPU0-Core-Clock-Entry=0x6000000
+HWiNFO-GPU0-Memory-Clock-Entry=0x6000004
+HWiNFO-GPU0-Load-Entry=0x7000000
+HWiNFO-GPU0-Used-Memory-Entry=0x8000001
+HWiNFO-GPU0-PCIe-Speed-Entry=0x8000003
+
